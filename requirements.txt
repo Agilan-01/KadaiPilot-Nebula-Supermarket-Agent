@@ -1,0 +1,10 @@
+openai-agents>=0.21.0,<0.22
+openai>=3.0.0,<4
+python-telegram-bot>=22.8,<23
+SQLAlchemy>=2.0.52,<2.1
+pydantic>=2.8,<3
+python-dotenv>=1.1,<2
+reportlab>=4.2,<5
+python-pptx>=1.0,<2
+matplotlib>=3.9,<4
+pandas>=2.2,<3
